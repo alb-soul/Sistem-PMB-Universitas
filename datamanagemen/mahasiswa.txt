@@ -1,0 +1,9 @@
+00001	Sombull	5555	7853610248998214	081356789111	Nani	Sate	Wonoson, Jatim, Priak, Sakau, RT.7,RW.1
+00002	Imam	1234	1234567890123456	089645372774	Farid	Ashimah	Kalsel, HSU, Sungai, Alabio, RT.1,RW.1
+00003	Ihtiar	4321	7875321232456798	089462723456	Kambo	Sambo	Anai, Lampung, Loksado, Sari Ayu, RT.5,RW.4
+00004	Rauuf	5678	9087654321898888	089351838123	Sigma	Clara	Kalbar, Paringin, Balangan, Katok, 2, 12
+00005	Mbohai	9970	4352832853284838	089456328812	Kloasa	Yamie	Basaaa, Banfung, Sini, Kolasa, RT. 2,RW. 2
+00006	Naisya	7822	7352832853287834	089364526342	Sirdada	Merawa	Aceh tgh, Aceh, Sini, Kolasa, RT. 2,RW. 2
+00007	Gaara	9354	3242165992382822	075647254732	Kaze	Kage	Kore, AMega, Srikandi, Depok, RT. 2,RW. 4
+00008	KAnkuro	7731	6575443583483337	076856475634	Juen	Bagus	Porutgal, Malay, Jati, Batam, RT. 5,RW. 6
+00009	Temari	7345	4325325743573274	084563724312	Bakarr	Juaer	Padan, SUngai, Brazil, Variz, RT. 4,RW. 3

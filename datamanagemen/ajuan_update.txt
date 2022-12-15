@@ -1,0 +1,11 @@
+---------------------------------------
+Pengaju : Sombar
+NIM : 00001
+---------------------------------------
+Data Alamat baru --> Jatim, Baban Sari, Pulau Sa, Bandung, RT.3, RW.8
+---------------------------------------
+Pengaju : Ihtiar
+NIM : 00003
+---------------------------------------
+Data Nama baru --> Ihtiaaare
+Data No. HP baru --> 081356789987

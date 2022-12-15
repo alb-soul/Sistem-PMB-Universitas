@@ -1,0 +1,3 @@
+Jumlah ajuan : 2
+	Ajuan ke-1, Pengaju : Sombar, 1 data yang diubah
+	Ajuan ke-2, Pengaju : Ihtiar, 2 data yang diubah
